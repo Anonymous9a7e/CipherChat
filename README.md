@@ -31,6 +31,6 @@ python3 main.py \
 
 
 ## 📃Results
-The query-responses pairs in our experiments are all stored in the form of a *.list and *.txt in the "experimental_results" folder, and torch.load() can be used to load data (*.list).
+The query-responses pairs in our experiments are all stored in the form of a .list and .txt in the "experimental_results" folder, and torch.load() can be used to load data (*.list).
 
 
